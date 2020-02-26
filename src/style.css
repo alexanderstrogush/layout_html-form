@@ -1,0 +1,7 @@
+.block .field:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.question-group {
+  margin-bottom: 20px;
+}
